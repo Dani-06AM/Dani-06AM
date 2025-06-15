@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/-C%23-A020F0?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-Unity-000?style=flat&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/-COBOL-35495E?style=flat&logo=gnu&logoColor=white" alt="COBOL"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
